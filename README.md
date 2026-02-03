@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Anu 👋
 
-<!--
-**anumol166/anumol166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior IT Support | Cloud Support | Network Support
+📍 Sharjah, UAE | Open to Work
 
-Here are some ideas to get you started:
+I am a BCA graduate with hands-on experience in:
+- IT Support & Troubleshooting
+- Windows Server Administration (AD, DNS, DHCP)
+- Networking fundamentals
+- Azure Cloud (VMs, Backup, Monitoring)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Projects:
+- Windows Server IT Support Lab (In Progress)
+- Azure Virtual Machine Deployment (Planned)
+- Network Troubleshooting Lab (Planned)
+
+📫 Contact:
+LinkedIn: linkedin.com/in/anumolpvarghese/
+Email: anumolpvarghese166@gmail.com
