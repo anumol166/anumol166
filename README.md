@@ -48,7 +48,7 @@ https://github.com/YOUR_USERNAME/apache-dns-project
 📫 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/anumolpvarghese
-* 📧 Email: [anumolpvvarghese166@gmail.com](mailto:anumolpvarghese166@gmail.com)
+* 📧 Email: [anumolpvarghese166@gmail.com](mailto:anumolpvarghese166@gmail.com)
 
 ---
 
