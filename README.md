@@ -33,7 +33,7 @@ I am currently focused on building strong skills in Linux administration, DevOps
 * Troubleshooted real-world issues (NXDOMAIN, service errors, IP issues)
 
 👉 **Project Link:**
-https://github.com/YOUR_USERNAME/apache-dns-project
+https://github.com/anumol166/apache-dns-project
 
 ---
 
