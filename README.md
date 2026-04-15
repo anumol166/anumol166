@@ -36,12 +36,12 @@ I am currently focused on building strong skills in Linux administration, DevOps
 https://github.com/anumol166/apache-dns-project
 
 🔷 Server Monitoring Alert System
-	•	Developed a lightweight Linux-based monitoring system using Bash scripting
-	•	Monitored CPU, memory, and disk usage in real time
-	•	Automated checks using cron jobs for continuous monitoring
-	•	Generated alerts when resource usage exceeded defined thresholds
-	•	Logged system performance data for analysis and troubleshooting
-	•	Simulated real-world DevOps monitoring scenarios
+•Developed a lightweight Linux-based monitoring system using Bash scripting
+•Monitored CPU, memory, and disk usage in real time
+•Automated checks using cron jobs for continuous monitoring
+•Generated alerts when resource usage exceeded defined thresholds
+•Logged system performance data for analysis and troubleshooting
+•Simulated real-world DevOps monitoring scenarios
   
   👉 Project Link:
 https://github.com/anumol166/server-monitoring-alert-system
