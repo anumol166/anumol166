@@ -42,6 +42,7 @@ https://github.com/anumol166/apache-dns-project
 	•	Generated alerts when resource usage exceeded defined thresholds
 	•	Logged system performance data for analysis and troubleshooting
 	•	Simulated real-world DevOps monitoring scenarios
+  
   👉 Project Link:
 https://github.com/anumol166/server-monitoring-alert-system
 
